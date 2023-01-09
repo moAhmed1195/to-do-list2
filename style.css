@@ -1,0 +1,59 @@
+body{
+    background-color: aqua;
+}
+.main{
+background-color: lightblue;
+    padding: 10px;
+    width: 500px;
+    margin: 20px auto;
+    text-align: center;
+    font-weight: bold;
+}
+[type=text]{
+    width:70%;
+    height: 30px;
+    border-radius: 10px;
+    font-weight: bold;
+}
+button{
+    width: 20%;
+    height: 30px;
+    border-radius: 10px;
+}
+.form{
+    margin: 10px;
+}
+.tasks{
+    margin:10px;
+    border:solid 2px;
+    border-radius: 5px;
+}
+.createdTask{
+    margin:10px;
+    border: solid 2px;
+    border-radius: 5px;
+    position: relative;
+
+}
+
+.span{
+    width: 60%;
+    
+    
+    
+    
+}
+.done{
+    width: 15%;
+    margin: 3px;
+    
+
+
+}
+.delete{
+    width: 15%;
+    margin: 3px;
+
+    
+    
+}
